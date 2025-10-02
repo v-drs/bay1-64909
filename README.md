@@ -1,2 +1,1 @@
-# bay1-64909
-marina bay
+This repository is for developers
